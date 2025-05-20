@@ -76,12 +76,12 @@ function isPrimeNumber($number){
 
 //---
 
-$result = "Even";
-if($num % 2 !=0){
-    $result = "Odd";
-}
+// $result = "Even";
+// if($num % 2 !=0){
+//     $result = "Odd";
+// }
 
-echo "The number is: {$result}";
+// echo "The number is: {$result}";
 
-?>
+// ?>
 
